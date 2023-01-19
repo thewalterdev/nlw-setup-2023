@@ -2,6 +2,8 @@
 Projeto realizado durante o evento NLW Setup fornecido pela equipe da Rocketseat
 - - - 
 #### Tecnologias usadas:
+- Fastify
+- Tailwind CSS
 - Reactjs
 - Typescript
 - Nodejs
